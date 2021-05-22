@@ -1,6 +1,6 @@
 ## Hi, I’m [Tobi!](https://www.tobias-jopp.de) 👋
 
-<!--- <p align="left"> <img  src="https://komarev.com/ghpvc/?username=tobias-jopp&label=Views&color=green&style=flat" alt="tobias-jopp" /> </p> -->
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=tobias-jopp&label=Views&color=green&style=flat" alt="tobias-jopp" /> </p>
 
 - 👀 I am a hobby programmer, trying to learn more about everything tech.
 - 🌱 I’m currently learning nodejs

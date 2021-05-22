@@ -1,10 +1,12 @@
 ## Hi, I’m [Tobi!](https://www.tobias-jopp.de) 👋
 
-
 <!--- <p align="left"> <img  src="https://komarev.com/ghpvc/?username=tobias-jopp&label=Views&color=green&style=flat" alt="tobias-jopp" /> </p> -->
 
-- 👀 I’m interested in coding
+- 👀 I am a hobby programmer, trying to learn more about everything tech.
 - 🌱 I’m currently learning nodejs
+- ⚙️ I use daily: `.js`, `.css`, `.html`, `.java`, `.cs`
+- 🏢 I'm currently working at **❓**
+
 
 <!---
 <a href="https://github.com/tobias-jopp">
